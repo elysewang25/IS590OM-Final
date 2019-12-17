@@ -7,7 +7,7 @@ Please see the description of the documented file as files named Intermediate_UF
 
 
 #### Documentation for all datasets:
-Please find the .markdown files as files named Markdown_Climate.md, Markdown_Population.md, and Markdown_UFO.md.
+Please find the .markdown files as files named Markdown_Climate.markdown, Markdown_Population.markdown, and Markdown_UFO.markdown.
 
 
 #### Commented and documented code for all data gathering you did using code: 
