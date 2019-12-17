@@ -18,4 +18,13 @@ I do not have this one since all of my original data are hand-made/Web scraping,
 
 
 #### A notebook (Jupyter or R Markdown) with code: 
-Please see the notebook file as file named Final jupyter_kerourw2.ipynb.
+Please see the notebook file as file named IS590OM Final_jupyter_kerourw2.ipynb.
+
+##### P.S.
+The intermediate datasets here https://github.com/elysewang25/IS590OM-Final do not remain the same name as its original, please use the original datasets/name as input of the notebook:
+
+format: New dataset name -> Old dataset name
+
+Intermediate_population dataset.xlsx -> Resident Population by State, Annual.xlsx
+Intermediate_UFO dataset.csv -> ufo-scrubbed-geocoded-time-standardized-00.csv
+Intermediate_climate dataset.xlsx -> NOAA National Centers for Environmental information(IS590OM).xlsx
