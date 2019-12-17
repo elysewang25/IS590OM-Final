@@ -23,7 +23,7 @@ Please see the notebook file as file named IS590OM Final_jupyter_kerourw2.ipynb.
 ##### P.S.
 The intermediate datasets here https://github.com/elysewang25/IS590OM-Final do not remain the same name as its original, please use the original datasets/name as input of the notebook:
 
-format: New dataset name -> Old dataset name
+format: New dataset name -> Original dataset name
 
 Intermediate_population dataset.xlsx -> Resident Population by State, Annual.xlsx
 
