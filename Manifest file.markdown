@@ -26,5 +26,7 @@ The intermediate datasets here https://github.com/elysewang25/IS590OM-Final do n
 format: New dataset name -> Old dataset name
 
 Intermediate_population dataset.xlsx -> Resident Population by State, Annual.xlsx
+
 Intermediate_UFO dataset.csv -> ufo-scrubbed-geocoded-time-standardized-00.csv
+
 Intermediate_climate dataset.xlsx -> NOAA National Centers for Environmental information(IS590OM).xlsx
