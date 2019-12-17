@@ -14,8 +14,7 @@ Please find the .markdown files as files named Markdown_Climate.markdown, Markdo
 
 
 #### Commented and documented code for all data gathering you did using code: 
-I do not have this one since all of my original data are hand-made/Web scraping, or download originally from the source.
-
+Please find the creation description file as the file named File creation_kerourw2.pdf.
 
 #### A notebook (Jupyter or R Markdown) with code: 
 Please see the notebook file as file named IS590OM Final_jupyter_kerourw2.ipynb.
