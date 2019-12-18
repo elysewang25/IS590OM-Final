@@ -31,7 +31,8 @@ The intermediate datasets here https://github.com/elysewang25/IS590OM-Final (or 
 * Intermediate_climate dataset.xlsx -> NOAA National Centers for Environmental information(IS590OM).xlsx
 
 ## My project’s entry for your resume:
-Please find my resume as the file named IS590OM Final_Resume_kerourw2.pdf or via [link](https://github.com/elysewang25/IS590OM-Final/blob/master/IS590OM%20Final_Resume_kerourw2.pdf)the added portion regarding this project is called 'COURSE PROJECT' .
+Please find my resume as the file named IS590OM Final_Resume_kerourw2.pdf or via [link](https://github.com/elysewang25/IS590OM-Final/blob/master/IS590OM%20Final_Resume_kerourw2.pdf). 
+The added portion regarding this project is called 'COURSE PROJECT' .
 
 ## A single summary slide:
 Please find the summary slide as the file named IS590OM Final_Summary Slide_kerourw2.pdf or via [link](https://github.com/elysewang25/IS590OM-Final/blob/master/IS590OM%20Final_Summary%20Slide_kerourw2.pdf)
