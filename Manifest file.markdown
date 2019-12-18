@@ -20,7 +20,7 @@ Please find the creation description file as the file named File creation_kerour
 ## A notebook (Jupyter or R Markdown) with code: 
 Please see the notebook file as file named IS590OM Final_jupyter_kerourw2.ipynb or via [link](https://github.com/elysewang25/IS590OM-Final/blob/master/IS590OM%20Final_jupyter_kerourw2.ipynb)
 
-* The intermediate datasets here https://github.com/elysewang25/IS590OM-Final (or can find the above title - Intermediate datasets with specific link) do not remain the same name as its original, please use the original datasets/name as input of the notebook:
+The intermediate datasets here https://github.com/elysewang25/IS590OM-Final (or can find the above title - Intermediate datasets with specific link) do not remain the same name as its original, please use the original datasets/name as input of the notebook:
 
 * format: New dataset name -> Original dataset name
 
